@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Gap_main" target="1.8" />
+      <module name="Gap_test" target="1.8" />
+      <module name="SpongeAPI_ap" target="1.8" />
+      <module name="SpongeAPI_main" target="1.8" />
+      <module name="SpongeAPI_test" target="1.8" />
+      <module name="SpongeCommon_java6" target="1.6" />
+      <module name="SpongeCommon_main" target="1.8" />
+      <module name="SpongeCommon_test" target="1.8" />
+      <module name="SpongeVanilla_api" target="1.8" />
+      <module name="SpongeVanilla_java6" target="1.6" />
+      <module name="SpongeVanilla_main" target="1.8" />
+      <module name="SpongeVanilla_test" target="1.8" />
+      <module name="testplugins_main" target="1.8" />
+      <module name="testplugins_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
