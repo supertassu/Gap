@@ -59,10 +59,6 @@ public class GapConfig {
     @Getter
     private int maxHpForRegen = 10;
 
-    @Setting(value = "enable bypass permission", comment = "If true, usage of permission \"gap.bypass\" will be allowed.")
-    @Getter
-    private boolean enableBypassPerm = false;
-
     @Setting(value = "enable experimental healing", comment = "If true, all HealEntityEvents for Players will be " +
             "cancelled and a custom healing task will be used.\n HealEntityEvent is not implemented in latest " +
             "versions of Sponge.\n Not recommended if HealEntityEvent is implemented.")
